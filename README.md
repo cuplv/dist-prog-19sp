@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Schedule
 
-You can use the [editor on GitHub](https://github.com/cuplv/dist-prog-19sp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cuplv/dist-prog-19sp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Date | Paper | Presenter |
+| --- | --- | --- |
+| Jan 14 | [Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services (2002)](https://www.comp.nus.edu.sg/~gilbert/pubs/BrewersConjecture-SigAct.pdf)<br> [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)| |
+| Jan 21 | [Linearizability: A Correctness Condition for Concurrent Objects (TOPLAS 1990)](http://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf) | |
+| Jan 28 | [Time, Clocks, and the Ordering of Events in a Distributed System (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)<br> [Causal memory: definitions, implementation, and programming (Distributed Computing, 1995)](https://link.springer.com/article/10.1007/BF01784241) | |
+| Feb 4 | | |
+| Feb 11 | | |
+| Feb 18 | | |
+| Feb 25 | | |
+| Mar 4 | | |
+| Mar 11 | | |
+| Mar 18 | | |
+| Mar 25 | | |
+| Apr 1 | | |
+| Apr 8 | | |
+| Apr 15 | | |
+| Apr 22 | | |
+| Apr 29 | | |
