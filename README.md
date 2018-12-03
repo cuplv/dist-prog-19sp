@@ -1,3 +1,7 @@
+The focus of this reading group is on languages, abstractions, and verification tools for distributed programming. Our reading list is taken from [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/)'s fantastic course [Languages and Abstractions for Distributed Programming](http://composition.al/CMPS290S-2018-09/course-overview.html) at UC Santa Cruz. As in her course, we focus on consistency models and language-based approaches to specifying, implementing, and verifying them. In the last two weeks, we turn our attention to formal verification of distributed systems.
+
+If you're interested in joining at any point in the semester, send [David Moon](http://plv.colorado.edu/dmoon) an email at domo9239@colorado.edu.
+
 ## Schedule
 
 | Date | Paper | Presenter |
