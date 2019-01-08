@@ -6,10 +6,10 @@ If you're interested in joining at any point in the semester, send [David Moon](
 
 | Date | Paper | Presenter |
 | --- | --- | --- |
-| Jan 16 | [Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services (2002)](https://www.comp.nus.edu.sg/~gilbert/pubs/BrewersConjecture-SigAct.pdf)<br> [Perspectives on the CAP Theorem](http://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf)<br> [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)| |
-| Jan 23 | [Linearizability: A Correctness Condition for Concurrent Objects (TOPLAS 1990)](http://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf) | |
-| Jan 30 | [Time, Clocks, and the Ordering of Events in a Distributed System (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)<br> [Causal memory: definitions, implementation, and programming (Distributed Computing, 1995)](https://link.springer.com/article/10.1007/BF01784241) | |
-| Feb 6 | [Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](https://ieeexplore.ieee.org/document/331722)<br> see also: consistency hierarchy in Section 3 of [Consistency in Non-Transactional Distributed Storage Systems](https://dl.acm.org/citation.cfm?id=2926965) | |
+| Jan 16 | [Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services (2002)](https://www.comp.nus.edu.sg/~gilbert/pubs/BrewersConjecture-SigAct.pdf)<br> [Perspectives on the CAP Theorem](http://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf)<br> [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)| Nick |
+| Jan 23 | [Linearizability: A Correctness Condition for Concurrent Objects (TOPLAS 1990)](http://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf) | Akash |
+| Jan 30 | [Time, Clocks, and the Ordering of Events in a Distributed System (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)<br> [Causal memory: definitions, implementation, and programming (Distributed Computing, 1995)](https://link.springer.com/article/10.1007/BF01784241) | David |
+| Feb 6 | [Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](https://ieeexplore.ieee.org/document/331722)<br> see also: consistency hierarchy in Section 3 of [Consistency in Non-Transactional Distributed Storage Systems](https://dl.acm.org/citation.cfm?id=2926965) | Michael |
 | Feb 13 | [Conflict-free Replicated Data Types (2011)](https://hal.inria.fr/inria-00609399/document) | |
 | Feb 20 | [Replicated Data Types: Specification, Verification, Optimality (POPL ‘14)](https://www.microsoft.com/en-us/research/publication/replicated-data-types-specification-verification-optimality/) | |
 | Feb 27 | [Disciplined Inconsistency with Consistency Types (SoCC ‘16)](http://bholt.org/gen/ipa.pdf) | |
