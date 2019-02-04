@@ -16,9 +16,9 @@ If you're interested in joining at any point in the semester, send [David Moon](
 | Mar 6 | [‘Cause I’m Strong Enough: Reasoning About Consistency Choices in Distributed Systems (POPL ‘16)](http://software.imdea.org/~gotsman/papers/logic-popl16.pdf) | |
 | Mar 13 | [MixT: a Language for Mixing Consistency in Geodistributed Transactions (PLDI ‘18)](http://www.cs.cornell.edu/andru/papers/mixt/mixt.pdf) | |
 | Mar 20 | [Declarative Programming over Eventually Consistent Data Stores (PLDI ‘15)](http://kcsrk.info/papers/quelea_pldi15.pdf) | |
-| Mar 27 | [Consistency Analysis in Bloom: a CALM and Collected Approach (CIDR ‘11)](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf) | |
-| Apr 3 | [Logic and Lattices for Distributed Programming (SoCC ‘15)](https://dl.acm.org/citation.cfm?id=2391230) | |
-| Apr 10 | [Naiad: A Timely Dataflow System](http://sigops.org/s/conferences/sosp/2013/papers/p439-murray.pdf)| |
-| Apr 17 | [Rehearsal: A Configuration Verification Tool for Puppet (PLDI ‘16)](https://people.cs.umass.edu/~arjun/papers/2016-rehearsal.html) | |
-| Apr 24 | [Verdi: A Framework for Implementing and Formally Verifying Distributed Systems (PLDI ‘15)](http://verdi.uwplse.org/verdi.pdf) | |
-| May 1 | [Programming and Proving with Distributed Protocols (POPL ‘18)](http://ilyasergey.net/papers/disel-popl18.pdf) | |
+| Mar 27 | spring break | |
+| Apr 3 | [Consistency Analysis in Bloom: a CALM and Collected Approach (CIDR ‘11)](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf) | |
+| Apr 10 | [Logic and Lattices for Distributed Programming (SoCC ‘15)](https://dl.acm.org/citation.cfm?id=2391230) | |
+| Apr 17 | [Naiad: A Timely Dataflow System](http://sigops.org/s/conferences/sosp/2013/papers/p439-murray.pdf) | |
+| Apr 24 | [Rehearsal: A Configuration Verification Tool for Puppet (PLDI ‘16)](https://people.cs.umass.edu/~arjun/papers/2016-rehearsal.html) | |
+| May 1 | [Verdi: A Framework for Implementing and Formally Verifying Distributed Systems (PLDI ‘15)](http://verdi.uwplse.org/verdi.pdf) | |
