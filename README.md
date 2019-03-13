@@ -14,11 +14,11 @@ If you're interested in joining at any point in the semester, send [David Moon](
 | Feb 20 | [Replicated Data Types: Specification, Verification, Optimality (POPL ‘14)](https://www.microsoft.com/en-us/research/publication/replicated-data-types-specification-verification-optimality/) | Nick |
 | Feb 27 | [Disciplined Inconsistency with Consistency Types (SoCC ‘16)](http://bholt.org/gen/ipa.pdf) | Akash |
 | Mar 6 | [‘Cause I’m Strong Enough: Reasoning About Consistency Choices in Distributed Systems (POPL ‘16)](http://software.imdea.org/~gotsman/papers/logic-popl16.pdf) | David |
-| Mar 13 | [MixT: a Language for Mixing Consistency in Geodistributed Transactions (PLDI ‘18)](http://www.cs.cornell.edu/andru/papers/mixt/mixt.pdf) | Sananda |
-| Mar 20 | [Declarative Programming over Eventually Consistent Data Stores (PLDI ‘15)](http://kcsrk.info/papers/quelea_pldi15.pdf) | Juraj |
+| Mar 13 | bad weather | |
+| Mar 20 | [MixT: a Language for Mixing Consistency in Geodistributed Transactions (PLDI ‘18)](http://www.cs.cornell.edu/andru/papers/mixt/mixt.pdf) | Sananda |
 | Mar 27 | spring break | |
-| Apr 3 | [Consistency Analysis in Bloom: a CALM and Collected Approach (CIDR ‘11)](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf) | Nick |
-| Apr 10 | [Logic and Lattices for Distributed Programming (SoCC ‘15)](https://dl.acm.org/citation.cfm?id=2391230) | Akash |
-| Apr 17 | [Naiad: A Timely Dataflow System](http://sigops.org/s/conferences/sosp/2013/papers/p439-murray.pdf) | David |
-| Apr 24 | [Rehearsal: A Configuration Verification Tool for Puppet (PLDI ‘16)](https://people.cs.umass.edu/~arjun/papers/2016-rehearsal.html) | Sananda |
-| May 1 | [Verdi: A Framework for Implementing and Formally Verifying Distributed Systems (PLDI ‘15)](http://verdi.uwplse.org/verdi.pdf) | Juraj |
+| Apr 3 | [Declarative Programming over Eventually Consistent Data Stores (PLDI ‘15)](http://kcsrk.info/papers/quelea_pldi15.pdf) | Juraj |
+| Apr 10 | [Consistency Analysis in Bloom: a CALM and Collected Approach (CIDR ‘11)](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf) | Nick |
+| Apr 17 | [Logic and Lattices for Distributed Programming (SoCC ‘15)](https://dl.acm.org/citation.cfm?id=2391230) | Akash |
+| Apr 24 | [Naiad: A Timely Dataflow System](http://sigops.org/s/conferences/sosp/2013/papers/p439-murray.pdf) | David |
+| May 1 | [Rehearsal: A Configuration Verification Tool for Puppet (PLDI ‘16)](https://people.cs.umass.edu/~arjun/papers/2016-rehearsal.html) | Sananda |
